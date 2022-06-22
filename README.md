@@ -95,7 +95,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=nachog8&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nachog8)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nachog8&theme=material-palenight)](https://github.com/nachog8)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nachog8&theme=material-palenight&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nachog8)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nachog8&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nachog8)
 </div>
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nachog8&theme=tokyonight&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&hide_border=true&locale=en" />
  </br>
