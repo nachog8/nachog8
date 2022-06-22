@@ -86,13 +86,11 @@
 </td>
     <td>
   
-## 📄📜 Stats
-
 
  <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">📄 Github stats 📄</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=nachog8&color=%2338C2FF&size=40&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nachog8)
+[![](https://github-readme-stats.vercel.app/api?username=nachog8&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nachog8)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nachog8&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nachog8)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nachog8&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nachog8)
 </div>
