@@ -17,7 +17,7 @@
 ## <h1 align= "center" style="margin: 5px 10px;" font-side= 20>🛠️ Skills 🛠️</h1>
      
      
-#### Languages
+#### 👉 Languages
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
@@ -46,7 +46,7 @@
      
 
 
-#### Frontend
+#### 👉 Frontend
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -69,7 +69,7 @@
 </p>
 
 
-#### Backend
+#### 👉 Backend
  
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
@@ -81,7 +81,7 @@
       alt="express" />
 </p>
  
-#### Database
+#### 👉 Database
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -100,7 +100,7 @@
   </a> 
 </p>
 
-#### Tools and Technologies
+#### 👉 Tools and Technologies
 
   <p align="center">
   <a href="https://git-scm.com/" target="_blank">
@@ -147,9 +147,9 @@
 </td>
     <td>
      
-<div align="center">
- 
- ## <h1 align= "center" style="margin: 5px 10px;" font-side= 20>📄 Github stats 📄</h1>
+## <h1 align= "center" style="margin: 5px 10px;" font-side= 20>📄 Github stats 📄</h1>
+ <div align="center">
+
 
 [![](https://github-readme-stats.vercel.app/api?username=nachog8&show_icons=true&theme=blueberry&hide_border=true&locale=en)](https://github.com/nachog8)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nachog8&theme=blueberry&hide_border=true&locale=en)](https://github.com/nachog8)
@@ -159,6 +159,7 @@
   </td>
  </tr>
 </table>
+
 <h3 align="center">Connect with me</h3>
  
 <div style="margin-top:10px" align="center">
